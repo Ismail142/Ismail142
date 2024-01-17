@@ -4,17 +4,15 @@
 
 ## ABOUT ME💻
 
-```cpp
-Call me = "qBentil" 🤗
--🌱 I'm a FULL STACK Developer & a Technical Author🖊️
-- 🌌 Proficiently Skilled in - (Web Application Development) ReactJS, NextJS, NodeJS, REST API, PHP | (Mobile App Development) - React Native | (Databases) - MongoDB, SQL, MySql. | (Cloud Storage) Firebase, Google Cloud
--⚡ Fun facts: Tech Writeups, Listening to Music🎧🎵 & Surfing the internet🌎🌐
--💬 Ask me about the journey and the answer is `CONSISTENCY, PERSISTENCE & DETERMINATION`.
--👀 Data Science Enthusiast.
+```
+I am Ismail Yahya a Frotend Developer 🧑‍💻
+- 🌌 Proficiently Skilled in - Frontend Development
+-😂 Hobby: Playing video games, watching TV Shows and like reading tech trends.
+-💬 ask about my motive and the answer is Vel Primus Vel Cum Primis.
 ```
 <!--<a href="https://app.daily.dev/bentilzone"><img src="https://api.daily.dev/devcards/286fb3e3ee324e35a2f195847b4e0e97.png?r=nry" width="400" alt="Bentil Shadrack's Dev Card"/></a>-->
 
-<h3 align="left">🔌 CONNECT:</h3>
+<h3 align="left">🔌LET CONNECT:</h3>
 
 
 [![linkedin badge](https://img.shields.io/badge/linkedIn-30302f?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ismail142)
