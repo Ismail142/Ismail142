@@ -57,16 +57,16 @@ Call me = "qBentil" 🤗
 <!-- BLOG-POST-LIST:END -->
 
 
-![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=qbentil&theme=dracula&hide_border=true)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qbentil&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qbentil&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qbentil&theme=github_dark)
-[![Bentil Shadrack's stats](https://github-readme-stats.vercel.app/api?username=qbentil&show_icons=true&theme=github_dark)](https://github.com/qbentil)
+![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=ismail142&theme=dracula&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ismail142&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ismail142&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ismail142&theme=github_dark)
+[![Ismail Yahya's stats](https://github-readme-stats.vercel.app/api?username=ismail142&show_icons=true&theme=github_dark)](https://github.com/qbentil)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qbentil&layout=compact&langs_count=10&theme=github_dark&hide_border=true&count-private=true)](https://github.com/qbentil) -->
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=qbentil&theme=dracula)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ismail142&theme=dracula)  
 <h2>🏆My Github Profile Trophy</h2>
-<img width=1000 src="https://github-profile-trophy.vercel.app/?username=qbentil&column=7&theme=gruvbox&no-frame=true"/>
+<img width=1000 src="https://github-profile-trophy.vercel.app/?username=ismail142&column=7&theme=gruvbox&no-frame=true"/>
 
 ![GitHub metrics](https://metrics.lecoq.io/qbentil) 
 
