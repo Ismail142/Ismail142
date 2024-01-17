@@ -59,7 +59,7 @@ I am Ismail Yahya a Frotend Developer 🧑‍💻
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ismail142&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ismail142&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ismail142&theme=github_dark)
-[![Ismail Yahya's stats](https://github-readme-stats.vercel.app/api?username=ismail142&show_icons=true&theme=github_dark)](https://github.com/qbentil)
+[![Ismail Yahya's stats](https://github-readme-stats.vercel.app/api?username=ismail142&show_icons=true&theme=github_dark)](https://github.com/ismail142)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismail142&layout=compact&langs_count=10&theme=github_dark&hide_border=true&count-private=true)](https://github.com/ismail142)
   
 <h2>🏆My Github Profile Trophy</h2>
