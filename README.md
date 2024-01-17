@@ -47,14 +47,6 @@ Call me = "qBentil" 🤗
 </a>&nbsp;&nbsp;
 
 
-<!-- ### I am learning: <br>
-<a href="https://github.com/qbentil">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-</a>&nbsp;&nbsp; -->
-
-<!-- ## 📖 Latest Blog posts -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 
 ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=ismail142&theme=dracula&hide_border=true)
@@ -62,11 +54,9 @@ Call me = "qBentil" 🤗
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ismail142&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ismail142&theme=github_dark)
 [![Ismail Yahya's stats](https://github-readme-stats.vercel.app/api?username=ismail142&show_icons=true&theme=github_dark)](https://github.com/qbentil)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qbentil&layout=compact&langs_count=10&theme=github_dark&hide_border=true&count-private=true)](https://github.com/qbentil) -->
- 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ismail142&theme=dracula)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismail142&layout=compact&langs_count=10&theme=github_dark&hide_border=true&count-private=true)](https://github.com/ismail142)
+  
 <h2>🏆My Github Profile Trophy</h2>
 <img width=1000 src="https://github-profile-trophy.vercel.app/?username=ismail142&column=7&theme=gruvbox&no-frame=true"/>
 
-![GitHub metrics](https://metrics.lecoq.io/qbentil) 
 
