@@ -51,6 +51,9 @@ Call me = "qBentil" 🤗
 <a href="https://github.com/ismail142">
  <img src="https://img.shields.io/badge/SASS-deeppink?style=for-the-badge&logo=sass" /> 
 </a>&nbsp;&nbsp;
+<a href="https://github.com/ismail142">
+ <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus" /> 
+</a>&nbsp;&nbsp;
 
 
 
