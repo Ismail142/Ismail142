@@ -6,7 +6,7 @@
 
 ```
 I am Ismail Yahya a Frotend Developer 🧑‍💻
-- 🌌 Proficiently Skilled in - Frontend Development
+- 🌌 Proficiently Skilled in - Frontend Development (REACT|PYTHON|HTML||CSS3|JAVASCRIPT|TAILWIND CSS|SASSS)
 -😂 Hobby: Playing video games, watching TV Shows and like reading tech trends.
 -💬 ask about my motive and the answer is Vel Primus Vel Cum Primis.
 ```
