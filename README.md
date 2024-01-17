@@ -45,7 +45,9 @@ Call me = "qBentil" 🤗
 <a href="https://github.com/ismail142">
  <img src="https://img.shields.io/badge/github-3776AB?style=for-the-badge&logo=github&logoColor=white" /> 
 </a>&nbsp;&nbsp;
-
+<a href="https://github.com/ismail142">
+ <img src="https://img.shields.io/badge/Tailwind%20CSS-gray?style=for-the-badge&logo=tailwindcss" /> 
+</a>&nbsp;&nbsp;
 
 
 
