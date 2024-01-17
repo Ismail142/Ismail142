@@ -1,12 +1,8 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ismail142&label=Profile%20views&color=e91e63&style=flat" alt="ismail" /> </p>
 <p>
-    <h1 align="center"> Hi 👋, I'm Bentil </h1>
-<p align="center"> 
-I have thing for TypeScript & JavaScript<br />
-</p>
+    <h1 align="center"> Hola 👋, I'm Ismail Yahya </h1>
 
-
-## 🎧ABOUT ME💻
+## ABOUT ME💻
 
 ```cpp
 Call me = "qBentil" 🤗
@@ -20,59 +16,36 @@ Call me = "qBentil" 🤗
 
 <h3 align="left">🔌 CONNECT:</h3>
 
-[![telegram badge](https://img.shields.io/badge/BENTILZONE-30302f?style=for-the-badge&logo=telegram)](https://t.me/BENTILZONE)
-[![Twitter badge](https://img.shields.io/badge/THEMANBENTIL-30302f?style=for-the-badge&logo=twitter)](https://twitter.com/themanbentil)
-[![linkedin badge](https://img.shields.io/badge/linkedIn-30302f?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bentil)
-[![whatsApp badge](https://img.shields.io/badge/BENTIL-30302f?style=for-the-badge&logo=whatsapp)](https://wa.me/233556844331?text=Hello%20Bentil!%20I%27m%20coming%20from%20your%20Github%20profile)
-[![youtube badge](https://img.shields.io/badge/youtube-30302f?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCtbdUBRM5h07Ctw3oFwNaow)
+
+[![linkedin badge](https://img.shields.io/badge/linkedIn-30302f?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ismail142)
+[![whatsApp badge](https://img.shields.io/badge/ISMAIL-30302f?style=for-the-badge&logo=whatsapp)](https://wa.me/233593661751?text=Hello%20Ismail!%20I%27m%20coming%20from%20your%20Github%20profile)
 
 <h3 align="left">⚙ My Tech Stack:</h3>
 
 ### I know : 
 
-<a href="https://github.com/qbentil">
+<a href="https://github.com/ismail142">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://github.com/qbentil">
+<a href="https://github.com/ismail142">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://github.com/qbentil">
+<a href="https://github.com/ismail142">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </a>&nbsp;&nbsp;
-<a href="https://github.com/qbentil">
-    <img src="https://img.shields.io/badge/nodejs-00000F?style=for-the-badge&logo=nodejs&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/qbentil">
-    <img src="https://img.shields.io/badge/php-00599C?style=for-the-badge&logo=php&logoColor=white" />
-</a>&nbsp;&nbsp;
-
-<a href="https://github.com/qbentil">
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/qbentil">
-    <img src="https://img.shields.io/badge/PostgreSQL-00FFFF?style=for-the-badge&logo=postgresql&logoColor=blue" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/qbentil">
+<a href="https://github.com/ismail142">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </a>&nbsp;&nbsp;
-<a href="https://github.com/qbentil">
+<a href="https://github.com/ismail142">
     <img src="https://img.shields.io/badge/Python-0000ff?style=for-the-badge&logo=python&logoColor=yellow" />
 </a>&nbsp;&nbsp;
-<a href="https://github.com/qbentil">
+<a href="https://github.com/ismail142">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" > 
 </a>&nbsp;&nbsp;
-<a href="https://github.com/qbentil">
+<a href="https://github.com/ismail142">
  <img src="https://img.shields.io/badge/github-3776AB?style=for-the-badge&logo=github&logoColor=white" /> 
 </a>&nbsp;&nbsp;
-<a href="https://github.com/qbentil">
-    <img src="https://img.shields.io/badge/react-native-CC6699?style=for-the-badge&logo=react-native&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/qbentil">
-    <img src="https://img.shields.io/badge/mongodb-eee?style=for-the-badge&logo=mongodb&logoColor=green" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/qbentil">
-    <img src="https://img.shields.io/badge/mongoose-eee?style=for-the-badge&logo=mongongoose&logoColor=green" />
-</a>&nbsp;&nbsp;
+
 
 <!-- ### I am learning: <br>
 <a href="https://github.com/qbentil">
