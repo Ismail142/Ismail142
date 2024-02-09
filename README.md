@@ -4,13 +4,13 @@
 
 ## ABOUT ME💻
 
-```
-I am Ismail Yahya a Frotend Developer 🧑‍💻
-- 🌌 Proficiently Skilled in - Frontend Development (REACT|PYTHON|HTML||CSS3|JAVASCRIPT|TAILWIND CSS|SASSS)
--😂 Hobby: Playing video games, watching TV Shows and like reading tech trends.
--💬 ask about my motive and the answer is Vel Primus Vel Cum Primis.
-```
-<!--<a href="https://app.daily.dev/bentilzone"><img src="https://api.daily.dev/devcards/286fb3e3ee324e35a2f195847b4e0e97.png?r=nry" width="400" alt="Bentil Shadrack's Dev Card"/></a>-->
+<li>I am Ismail Yahya a Frotend Developer 🧑‍💻 </li>
+
+<li>Proficiently Skilled 🤹 in - Frontend Development 🌐(REACT|PYTHON|HTML||CSS3|JAVASCRIPT|TAILWIND CSS|SASSS) </li>
+
+<li>😂 Hobby: Playing video games, watching TV Shows and like reading tech trends. </li>
+<li>💬 ask about my motive and the answer is Vel Primus Vel Cum Primis.
+</li>
 
 <h3 align="left">🔌LET CONNECT:</h3>
 
